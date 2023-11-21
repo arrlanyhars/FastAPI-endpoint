@@ -1,6 +1,6 @@
 # FastAPI Endpoint Integrated with SQLite
 
-## Feature
+## Features
 1. Create Users
 2. Login
 3. Get Users List
