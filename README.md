@@ -4,7 +4,7 @@
 1. Create Users
 2. Login
 3. Get Users List
-4. Get Details Users
+4. Get Users Detail
 5. Update Users
 5. Delete Users
 
